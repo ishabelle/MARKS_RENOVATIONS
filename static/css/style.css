@@ -1,0 +1,24 @@
+html {
+    font-family: Arial Narrow, sans-serif;
+    background-color: #f1f1f1;
+}
+
+.center {
+    text-align: -webkit-center;
+    background-color: #f1f1f1;
+    font-family: Arial Narrow, sans-serif;
+}
+
+body {
+    text-align: -webkit-center;
+    min-width: 420px;
+    width: 100%;
+    margin: 10%;
+}
+
+.center_carousel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
